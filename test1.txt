@@ -1,1 +1,2 @@
 workign on feature1
+feature 2 is finished
