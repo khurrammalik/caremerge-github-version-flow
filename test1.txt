@@ -4,3 +4,4 @@ feature 3 is finished
 feature 4 is finished
 feature 5 is finished
 feature 6 is finished
+feature 7 is finished
