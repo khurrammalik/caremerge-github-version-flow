@@ -1,3 +1,6 @@
+## [1.0.7]          
+<li> <a href="${GIT_URL%????}/commit/926b2deae5b43b821636e97593b0690e0618d54b"> Feature 26 is finished </a></li> 
+
 ## [1.0.6]          
 
 
