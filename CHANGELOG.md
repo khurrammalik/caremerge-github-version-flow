@@ -1,3 +1,6 @@
+##0.0.13          
+- Changed bumpversion config
+
 ##0.0.12          
 - Feature 12 is finished
 - Feature 11 is finished
