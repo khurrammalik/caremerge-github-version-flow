@@ -1,3 +1,6 @@
+## [1.0.6]          
+
+
 ## [1.0.5]          
 <li> <a href="http://github.com/khurrammalik/caremerge-github-version-flow/commit/576cb55ea98f260948f43fe352793d952d26a6e7"> Feature 25 is finished </a></li> 
 
