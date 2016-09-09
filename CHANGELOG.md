@@ -1,4 +1,9 @@
-##0.1.0          
+##0.1.1          
+<li> <a href="http://github.com/khurrammalik/caremerge-github-version-flow/commit/c282c6edced972c011264c689d3f61e33cbd6af8"> - Feature 20 is finished &bull;</a></li> 
+<li> <a href="http://github.com/khurrammalik/caremerge-github-version-flow/commit/eda1d3e87fc66983d7c08ab0b3b511486f26620d"> - Feature 21 is finished &bull;</a></li> 
+<li> <a href="http://github.com/khurrammalik/caremerge-github-version-flow/commit/3981d8018888257bbe82fe65dbbb92db7ded26ff"> - Feature 22 is finished &bull;</a></li> 
+
+          ##0.1.0          
 <li> <a href="http://github.com/khurrammalik/caremerge-github-version-flow/commit/2f8fd65bd53e6df99bba3979efcab8dc6d8ac891"> - Feature 19 is finished &bull;</a></li> 
 
           ##0.0.21          
