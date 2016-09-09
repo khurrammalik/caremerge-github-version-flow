@@ -1,3 +1,8 @@
+##0.0.12          
+- Feature 12 is finished
+- Feature 11 is finished
+- Feature 10 is finished
+
 ##0.0.11          
 Jenkins Continuous Build server; True
 khurram malik; Feature 9 is finished
