@@ -1,3 +1,27 @@
+## [1.0.10]          
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/85bb75392131193e4b525dea9fdc5482773dd5dd"> CHANGELOG & version updated for 1.0.1 </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/27d2f36e2c71dba6fe60f38b77a070111e27dd2e"> CHANGELOG & version updated for 1.0.2 </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/9adaa5cf4d1d6215741f839865257ed1e85ce693"> CHANGELOG & version updated for 1.0.3 </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/29be375460b14823e4fa9441fba009e5f651010b"> Feature 24 is finished </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/5318cb71ab941372afa3cd8c988da88635aa48fa"> CHANGELOG & version updated for 1.0.4 </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/576cb55ea98f260948f43fe352793d952d26a6e7"> Feature 25 is finished </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/602df26c4c1186a4494f499383ddc87c637d3cae"> CHANGELOG & version updated for 1.0.5 </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/ef587e795a7a018951af020873b404d8c5f739a4"> CHANGELOG & version updated for 1.0.6 </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/926b2deae5b43b821636e97593b0690e0618d54b"> Feature 26 is finished </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/999af39de34d25660828acbcfe6e4b19269ae7e3"> CHANGELOG & version updated for 1.0.7 </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/baef4ce494febc88abded5fc0e15af64ad91a5a7"> Feature 27 is finished </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/acd2c4e4dcdf9d83936dca76ac48805a49b3a39f"> CHANGELOG & version updated for 1.0.8 </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/45d914c1ff04dbfb86abf65f595b401a93434da0"> V2 of bumpversion </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/f230d8842bdf84c87a49ea0d4d639a822d497ad6"> fixed bumpversion version </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/0ba68884700dcb8f88140f65012bf3771493e1f0"> CHANGELOG & version updated for 1.0.9rc </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/c2cdde878b085fdb549ed7423ef710d4781a9dc5"> maintaining a record of last release </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/b1e9413f8c35eb8042547246bc0b5cac4c171162"> fixed version name </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/01711d44eb95a217e9ba65a11177300280cee2e9"> CHANGELOG & version updated for </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/2a854fc75b9745ec560a6a4be0c363ad904a013f"> Feature 28 is finished </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/3d0234c464f7fad81099a54a8bf09580ef4ae676"> fixed version </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/f61e5c6d72f52dd8b24b1d8755147c32b8859a71"> CHANGELOG & version updated for 1.0.10rc </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/af50479e3500706f7254abc1a11e687ec4581250"> Update .last_release </a></li> 
+
 ## []          
 <li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/85bb75392131193e4b525dea9fdc5482773dd5dd"> CHANGELOG & version updated for 1.0.1 </a></li> 
 <li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/27d2f36e2c71dba6fe60f38b77a070111e27dd2e"> CHANGELOG & version updated for 1.0.2 </a></li> 
