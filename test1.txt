@@ -19,3 +19,4 @@ feature 20 is finished
 feature 21 is finished
 feature 22 is finished
 feature 23 is finished
+feature 24 is finished
