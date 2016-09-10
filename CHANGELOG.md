@@ -1,3 +1,7 @@
+## [1.1.5]          
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/06fe584c7aa999037c8fe21b4668d93ee10d2521"> Feature 34 is finished </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/28ac7e9b8e3b0d7b5de325977502c2ba8bbde1d6"> build shouldnt trigger </a></li> 
+
 ## [1.1.0]          
 <li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/3b5aeee635e2b8354e7bd1d5001834525fd82318"> Feature 31 is finished </a></li> 
 <li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/736079e66c89bf55a2079a41fdd184499e6d90db"> Feature 32 is finished </a></li> 
