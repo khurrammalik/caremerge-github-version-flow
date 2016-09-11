@@ -1,3 +1,8 @@
+## [1.2.0-rc0]          
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/0ab9e1e885580a61462d8a39afdc1f82fa157391"> testing new version of bumpconfig </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/73d5f9dfd7a5d04b7e8922aeaee8603ba5cb3052"> CHANGELOG & version updated for 1.1.5-production01 </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/a8a1a71a893b4100237afc5d073670f84ab952d4"> fixed versions </a></li> 
+
 ## [1.1.5-production01]          
 <li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/0ab9e1e885580a61462d8a39afdc1f82fa157391"> testing new version of bumpconfig </a></li> 
 
