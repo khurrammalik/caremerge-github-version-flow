@@ -1,3 +1,6 @@
+## [1.1.5-production01]          
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/0ab9e1e885580a61462d8a39afdc1f82fa157391"> testing new version of bumpconfig </a></li> 
+
 ## [1.1.5rc]          
 
 
