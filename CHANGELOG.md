@@ -1,3 +1,9 @@
+## [1.3.1]          
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/0ab9e1e885580a61462d8a39afdc1f82fa157391"> testing new version of bumpconfig </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/a8a1a71a893b4100237afc5d073670f84ab952d4"> fixed versions </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/4f68f45adf338a4ec214a894600b4c58bc00f817"> Feature 35 is finished </a></li> 
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/7af67fc2100150ee94ce6901b665e62ddea0fba3"> Feature 36 is finished </a></li> 
+
 ## [1.1.5]          
 <li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/06fe584c7aa999037c8fe21b4668d93ee10d2521"> Feature 34 is finished </a></li> 
 <li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/28ac7e9b8e3b0d7b5de325977502c2ba8bbde1d6"> build shouldnt trigger </a></li> 
