@@ -1,3 +1,6 @@
+## [2.1.2]          
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/9dbda295ca1300ac7f323e35591e71e6ae8f5874"> Feature 42 is finished </a></li> 
+
 ## [2.1.0]          
 <li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/a1a51f4f4ab7b36098065a4f0e2d344d6f6aac69"> Feature 41 is finished </a></li> 
 
