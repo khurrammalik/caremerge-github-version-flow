@@ -1,3 +1,6 @@
+## [2.1.0]          
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/a1a51f4f4ab7b36098065a4f0e2d344d6f6aac69"> Feature 41 is finished </a></li> 
+
 ## [2.0.4]          
 <li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/e9add4760f1952d05ae366d56abd7bce7e9feacc"> Bump version: 2.0.3 → 2.0.4 </a></li> 
 
