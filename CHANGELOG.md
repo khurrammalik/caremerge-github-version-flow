@@ -1,3 +1,6 @@
+## [2.0.4]          
+<li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/e9add4760f1952d05ae366d56abd7bce7e9feacc"> Bump version: 2.0.3 → 2.0.4 </a></li> 
+
 ## [2.0.3]          
 <li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/4dc72ae2c066d961f3d7110b805cbff6454101e3"> Bump version: 1.3.3 → 1.3.4 </a></li> 
 <li> <a href="https://github.com/khurrammalik/caremerge-github-version-flow/commit/a5aae8b93b45668f4c90aad1ba7209c685175787"> Bump version: 1.3.4 → 1.3.5 </a></li> 
