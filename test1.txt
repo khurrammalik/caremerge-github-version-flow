@@ -42,3 +42,4 @@ feature 43 is finished
 feature 44 is finished
 feature 45 is finished
 feature 46 is finished
+feature 47 is finished
