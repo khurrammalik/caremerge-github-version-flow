@@ -27,3 +27,4 @@ feature 46 is finished
 feature 47 is finished
 feature 48 is finished
 feature 49 is finished
+feature 50 is finished
