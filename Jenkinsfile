@@ -9,7 +9,7 @@ node {
        echo "build2"
      }, 'build3':{
        echo "build3"
-       echo "build2 step 2"
+       echo "build2 step 1"
      }
     
     stage "Test"
